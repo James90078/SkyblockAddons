@@ -2,6 +2,9 @@
 A Minecraft Forge mod with helpful Hypixel skyblock features!
 
 New Features
+
+new and imprvoed dungeon guide
+
 Display player profile type in chat (@CattoFace)
 Display Crimson Armor Stacks (@hannibal002)
 Add option to hide true defense from the action bar (only shown when getting fire damage and not using an ability) (@hannibal002)
@@ -13,6 +16,7 @@ Colour absorption part of health bar orange
 Change default positions of health and mana displays to improve visibility
 Remove Combat Timer (@hannibal002)
 Remove Magma Boss Timer (@hannibal002)
+
 Bug Fixes
 Add Crystal Nucleus to Fancy Warp Menu
 Add new enchantments to enchantment colouring (@hannibal002)
