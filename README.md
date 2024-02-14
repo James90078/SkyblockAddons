@@ -3,7 +3,7 @@ A Minecraft Forge mod with helpful Hypixel skyblock features!
 
 New Features
 
-new and imprvoed dungeon guide
+New and improved dungeon guide
 
 Display player profile type in chat (@CattoFace)
 Display Crimson Armor Stacks (@hannibal002)
